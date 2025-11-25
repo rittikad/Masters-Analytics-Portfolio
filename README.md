@@ -1,7 +1,7 @@
 # 🎓 Masters Analytics Portfolio
 
-Showcasing **data-driven insights, marketing analytics, and business strategy** from my MSc in Business Analytics.  
-These projects highlight my ability to translate **consumer and business data into actionable insights** across sectors like **retail, fashion, entertainment, and financial services**.
+This repository showcases my **Master’s projects** at Warwick Business School, demonstrating expertise in **data analytics, consumer insights, marketing analytics, and operations optimization**. The projects highlight my ability to transform **complex datasets into actionable business strategies**, across sectors including **digital marketing, retail, fashion, entertainment, finance, healthcare, and urban analytics**.
+
 
 ---
 
@@ -41,19 +41,6 @@ These projects demonstrate a combination of **technical analytics skills with bu
 | **[Cartify Data Analytics](https://github.com/rittikad/Cartify-Data-Analytics)** | Understand retail consumer purchasing behaviour | SQL, SQLite, Python, Power BI, Data Cleaning, Visualisation | Insights into transactions, trends, and marketing/operational recommendations. |
 
 ---
-
-## 🎯 Career Focus
-
-These projects demonstrate readiness for roles such as:  
-
-- **Marketing / Consumer Analyst** – Understanding consumer behaviour, engagement, and campaign performance  
-- **Business Analyst / Data-Driven Strategist** – Translating data into actionable business recommendations  
-- **Consumer Insights Specialist** – Leveraging analytics to inform product, marketing, and engagement strategies  
-
----
-
-Made with ❤️ to **showcase analytics, consumer insights, and marketing strategy skills**, ready to support **consumer-focused business decisions**.
-
 
 ## 🎯 Career Focus
 
