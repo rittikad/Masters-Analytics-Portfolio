@@ -7,7 +7,7 @@ This repository showcases my **Master’s projects** at Warwick Business School,
 
 ## 💡 Skills & Tools
 
-**Analytics & Data Processing:** Python, R, SQL, Excel, Tableau  
+**Analytics & Data Processing:** Python, R, SQL, Excel, Tableau/Power BI 
 **Marketing & Consumer Insights:** Digital Marketing Strategy, SEO, Social Media Analysis, Email Campaigns, Content Strategy  
 **Business Strategy & Decision Support:** Revenue Optimisation, Footfall Analysis, Portfolio Management, Risk Analysis  
 **Communication & Storytelling:** Dashboards, Reports, Presentations, Actionable Recommendations  
